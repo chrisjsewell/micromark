@@ -1302,7 +1302,7 @@ It’s the newest parser on the block, which means it’s fresh and well suited 
 contemporary markdown needs, but it’s also battle-tested, and already the 3rd
 most popular markdown parser in JavaScript.
 
-If you’re looking for fine grained control, use micromark.
+If you’re looking for fine grained control, use remark.
 If you just want HTML from markdown, use micromark.
 
 ###### remark
